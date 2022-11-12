@@ -7,6 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "AdiPutra",
+	"repository": "https://github.com/DimasAdiPutra/Coding-test-backend-intern-FIP/tree/main/tes_backend",
 	"license": "MIT",
 	"dependencies": {
 		"dotenv": "^16.0.3",

@@ -6,6 +6,7 @@
 	"scripts": {
 		"test": "jest"
 	},
+	"repository": "https://github.com/DimasAdiPutra/Coding-test-backend-intern-FIP/tree/main/tes_logika",
 	"author": "AdiPutra",
 	"license": "MIT",
 	"devDependencies": {
