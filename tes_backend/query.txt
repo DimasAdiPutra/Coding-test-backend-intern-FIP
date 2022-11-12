@@ -1,0 +1,11 @@
+INDEXING sql
+KEY keyword sql
+add foreign key sql
+grouping sql
+Many to many table join sql
+AVG function sql
+npmjs
+mysql
+mysqljs
+create table from node js
+"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ALTER TABLE `hobbies`   ADD PRIMARY KEY (`id`),   ADD KEY `hobbies` (`name`,`...'

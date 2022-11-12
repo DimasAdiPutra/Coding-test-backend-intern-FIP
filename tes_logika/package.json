@@ -1,0 +1,14 @@
+{
+	"name": "tes_logika",
+	"version": "1.0.0",
+	"description": "Test Logika Intern FIP",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "AdiPutra",
+	"license": "MIT",
+	"devDependencies": {
+		"jest": "^29.3.1"
+	}
+}
